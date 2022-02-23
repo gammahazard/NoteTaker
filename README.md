@@ -8,7 +8,7 @@
 
   [A deployed version can be viewed here.:]
   
-  (NA)
+  https://notetaker-gammahazard.herokuapp.com/
   
 ---
 
