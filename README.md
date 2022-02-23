@@ -32,7 +32,9 @@
 
 ## Visuals:
 
-  ![]()
+
+<img width="1749" alt="Note-Taker-Img" src="https://user-images.githubusercontent.com/92896466/155414949-bf1d0ad7-44de-44d2-90a9-0ffe85f377f7.png">
+
 
 ---
 
