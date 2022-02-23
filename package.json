@@ -1,0 +1,23 @@
+{
+  "name": "notetaker",
+  "description": "Save important notes throughout the day!",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gammahazard/NoteTaker.git"
+  },
+  "author": "gammahazard",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/gammahazard/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/gammahazard/NoteTaker",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security"
+  }
+}
